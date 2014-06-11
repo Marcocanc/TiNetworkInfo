@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: Android module for reading out cellular network info
+author: Marco Cancellieri
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+
+# these should not be edited
+name: tinetworkinfo
+moduleid: com.clever_apps.tinetworkinfo
+guid: e530cb79-9fd7-4147-ab4e-6efa42dfe81c
+platform: android
+minsdk: 3.2.3.GA
